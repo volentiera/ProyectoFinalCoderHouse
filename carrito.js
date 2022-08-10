@@ -72,7 +72,7 @@ function crearCarrito() {
             `
         <div id="producto-${index}" class="row border-bottom">
             <div class="col-3">
-                <img src="${element.imagen}" class="modificarImagenCarrito" alt="..."/>
+                <img src=".${element.imagen}" class="modificarImagenCarrito" alt="..."/>
             </div>
             <div class="col-9 d-flex justify-content-between align-items-center text-center">
                 <div class="col-1">
