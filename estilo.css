@@ -1,0 +1,31 @@
+.card{
+    margin: 55px;
+    padding-top: 15px;
+}
+.card-title{
+    text-align: center;
+}
+.separador150{
+    height: 150px;
+}
+.separador100{
+    height: 100px;
+}
+.separador50{
+    height: 50px;
+}
+.modificarImagenCarrito{
+    height: 100%;
+    width: 100%;
+    padding: 2px;
+    margin-left: -10px;
+}
+.contenedorCarrito{
+    border-radius: 25px;
+    
+}
+.carrito-icon{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 30px;
+}
